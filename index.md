@@ -1,13 +1,7 @@
-## Welcome to Liteit Space 
+## Welcome to Liteit
 
+`For 20 years, Liteit have developed individuals and managers through self awarenes programs originated from Swedish military. Initially all excersises was based on pen and papers, but over time we have changed our way of working by introducing smarter solutions, based on software helping us progressing more effective.`
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact
