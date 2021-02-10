@@ -5,8 +5,8 @@ For 20 years, Liteit have developed individuals and managers through self awaren
 Liteit have broad experience in mentoring, business development and mobile app developlent and digitalization in general. We are open for funding of interresting concepts or ideas and share best practises. 
 
 ## We believe in that simple things can be pretty cool and add a significant value
-This simple landing page is an example, how cool is it to publish it for free @ github!?
-This is only one of many low code examples that will both save time and money, with thousends of best of breed SaaS services out there, more processes can be adressed and valuable administrative time spent reduced. Even if the most common processes within sales, markering or e-commerce and financial processes are adressed thare are a lote more to do.  Happy to hear what problem  / challenge you have step into!?      
+This stupid simple landing page is an example, how cool does it feel to be able publishing it for free @github!?
+There are thousends of low code examples that will save both time and money for small business.  In just a few years the market for simple best of breed SaaS services has exploeded and you pay for what you use. This trend is great and more processes can be adressed and valuable administrattion csan be reduced. Even if the most common processes within sales, markering or e-commerce and financial processes are adressed thare are a lot more that can be adressed. Happy to hear what problem  / challenge you have step into!?      
 
 ## Team
 To be discussed
