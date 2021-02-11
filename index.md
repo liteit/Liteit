@@ -14,8 +14,8 @@ We are eager to hear you out, listen in to your problem or findings based on you
 Coaching people have given us a broad experience in mentoring, personal development and feedback has showed us importance of continuity. We have combined humans need of forgetting things with digital tools helping us create a habit and a lasting change. We have tried and failed, tried again and failed and sometimes made a change and succed. There are a lot of things that can be done, but success many times depends on what you decide not to do, spend your time on money on. 
 
 ## Ask questions, do your homwwork and we can add value here..
- - Personal development
- - Self awareness
+ - Personal development methologies
+ - Self awareness market
  - Business development
  - Product management
  - Sofware developlent
